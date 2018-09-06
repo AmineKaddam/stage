@@ -1,4 +1,4 @@
-<<?php class Client
+<?php class Client
 {
     public function __construct()
     {
