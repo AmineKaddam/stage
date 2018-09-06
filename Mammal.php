@@ -1,4 +1,6 @@
 <?php
+
+
 interface Mammal
 {
     const GENDER_MALE = 'male';

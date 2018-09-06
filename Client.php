@@ -1,4 +1,8 @@
-<?php class Client
+<?php
+
+
+class Client
+
 {
     public function __construct()
     {
@@ -34,5 +38,4 @@
         return 'I am a ' . get_class($animal);
     }
 }
-
-$client = new Client; ?>
+?>

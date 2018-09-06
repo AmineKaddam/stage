@@ -1,5 +1,6 @@
 <?php
 
+
 class Dog extends Animal implements Canine, Mammal
 {
 private $name;

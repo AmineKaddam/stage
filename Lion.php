@@ -1,5 +1,6 @@
 <?php
 
+
 class Lion extends Animal implements Mammal, Feline
 {
 private $gender = self::GENDER_MALE;
